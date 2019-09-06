@@ -1,0 +1,28 @@
+{
+  "name": "time-limit-script",
+  "version": "1.0.0",
+  "description": "Time limit by JS with Electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Electron",
+    "JavaScript",
+    "TimeLimit"
+  ],
+  "author": "Kahiro-M",
+  "license": "CC BY-NC-SA",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "electron": "^2.0.2",
+    "electron-packager": "^13.1.1"
+  }
+}

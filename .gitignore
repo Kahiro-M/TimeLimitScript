@@ -1,0 +1,5 @@
+node_modules
+release
+*win32*
+*x64*
+*linux*
